@@ -1,0 +1,105 @@
+h1{
+    text-align:center;
+    font-size:35px;
+    font-family:"sofia",sans-serif;
+    padding:20px 0px 0px 0px;
+  
+  }
+  #main{
+    background-color:#cac3ca;
+    height:2199px;
+    width:100vw;
+  }
+  header p {
+    text-align:center;
+    font-weight:600;
+    font-style:italic;
+    font-family:lucida;
+    font-size:19px;}
+    .logo{
+      font-size:90px;
+      
+      color:white;
+      
+      
+    }
+    .quote{
+      display:flex;
+      
+      justify-content:space-evenly;
+  
+    }
+    body{
+        height:2200px;
+      }
+      figure{
+        background-color:white;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+        padding:20px;
+        
+      }
+      #image{
+        width:1000px;
+        max-width:100%;
+      }
+      #img-caption{
+        font-style:italic;
+        padding:10px;
+        font-size:20px;
+      }
+      #tribute-info{
+        text-align:center;
+        font-family:arial , lucida;
+        font-weight:800;
+    
+      }
+      .container h2{
+        text-align:center;
+    
+      }
+      .divider{
+        border-bottom:4px solid black;
+        width:75%;
+        margin:0px auto;
+      }
+      .list ul>li{
+        margin:0px auto;
+        padding:10px;
+        text-align:center;
+        list-style:none;
+        
+        
+      }
+      .list{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+      }
+      .bold{
+        font-weight:800;
+      }
+      .writings{
+        padding: 20px 90px;
+        font-style:italic;
+        font-family:sans-serif;
+        font-size:15px;
+    
+      }
+      .moreinfo{
+        text-align:center;
+        font-family:serif;
+        font-weight:800;
+        padding:20px;
+        font-size:20px;
+      }
+      footer{
+        margin:40px;
+        background-color:rgb(218, 208, 208);
+        padding:20px;
+      }
+      
+      
